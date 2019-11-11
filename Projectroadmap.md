@@ -1,9 +1,13 @@
-Objectives:
+# Objectives:
 
-Create README
+#### Create README.MD
+#### Create License
+#### Add Projectroadmap to respositories 
+#### Create new PRogramming file with code
 
-Create License 
 
-Add Projectroadmap to repositories
 
-Add code to Repositoriess
+
+
+
+
