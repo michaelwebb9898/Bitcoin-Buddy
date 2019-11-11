@@ -1,6 +1,9 @@
 Objectives:
 
-#Create README
-#Create License 
+Create README
+
+Create License 
+
 Add Projectroadmap to repositories
+
 Add code to Repositoriess
