@@ -1,4 +1,4 @@
-impot os
+mpot os
 import numpy as np
 import pandas as pd
 import pickle
