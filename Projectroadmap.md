@@ -13,7 +13,7 @@
 - [x] Add License
 - [x] Create "Code Examples"
 - [x] Add Projectroadmap to respositories 
-- [x] Creat PPT Splash Screen
+- [x] Create PPT Splash Screen
 - [x] Create new programming file "BitcoinBuddy.py"
 - [ ] Use "Code Examples" to help write the code for "BitcoinBuddy.py"
 - [x] Ensure that @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
