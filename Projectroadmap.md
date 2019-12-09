@@ -13,7 +13,7 @@
 - [x] Ensure that @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] List syntax required (any unordered or ordered list supported)
 - [x] Run and Test code to search for crashes or errors
-- [ ] Ensure "BitcoinBuddy.py" runs in Python IDLE
-- [ ] Create Powerpoint
+- [x] Ensure "BitcoinBuddy.py" runs in Jupyter Notebook
+- [x] Create Powerpoint
 - [ ] Submit Project
 
