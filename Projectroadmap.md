@@ -15,5 +15,5 @@
 - [x] Run and Test code to search for crashes or errors
 - [x] Ensure "BitcoinBuddy.py" runs in Jupyter Notebook
 - [x] Create Powerpoint
-- [ ] Submit Project
+- [x] Submit Project
 
